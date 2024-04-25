@@ -1,7 +1,7 @@
 # learning-archive
 keeping tab of all the stuff, that i learnt today, the source might be youtube, sites, anything, that catches my attemtion
 
-## 26th April
+## 25th April
 Youtube Video, about chatGPT jailbreak [link](https://www.youtube.com/watch?v=zn2ukSnDqSg)
 1. LLMs, are predictive models, where, their primary job is, to predict what you would say next, in order to continue the conversation. Like, if we are talking about chess, then it will also continue coversing about it, and might say about moves in chess, prominent people etc. however, it won't "know" anything about it.
 2. Just because, LLM's response seems spooky, doesn't mean its able to reason. Far from it, its just able to mimic it.
@@ -17,4 +17,4 @@ Youtube Video, about chatGPT jailbreak [link](https://www.youtube.com/watch?v=zn
 6. Prompt injection, which, primarily, is aimed at chatbots, that are being used as customer service etc. with certain prompts, we can "hack" our way, to break their terms and conditions. 
 7. A popular method, the professors use, now a days, to catch hold of chatgpt plagerism.
 
-## 27th April
+## 26th April
