@@ -35,3 +35,6 @@ Youtube video, about Self compiling compilers [link](https://www.youtube.com/wat
 14. Well, create a new executable, in the new complier which takes BVB and converts to C program, so, what happens, now, is we don't need BVA anymore…..
 15. This all sounds spooky and mind twisting man, inception, tenet and intersteller was not enough for this, lol!
 Well, to be honest, at the end of the video, stuff went over my head, I could blast my brains out to learn what they are saying, however, I feel, why don't I make a compiler, as I haven't ever done it, this might clear these stuff out…
+
+Watched some other youtube videos about AI, heard about Groq AI chip, which using opensource llms and propriotary small llms to increase their speed in multiple of 10's xs. I didn't understand however, how are they better than nvidea, a quick google search revealed, these two have different approaches towards speeding llms, I think, a little depth is required in order to understand what they are talking about.
+[link to the groq ai video](https://www.youtube.com/watch?v=pRUddK6sxDg&ab_channel=Groq)
