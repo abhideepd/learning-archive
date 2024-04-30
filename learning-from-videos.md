@@ -1,12 +1,12 @@
 
 # learning-archive
-keeping tab of all the stuff, that i learnt today, the source might be youtube, sites, anything, that catches my attemtion
+keeping tab of all the stuff, that i learnt through videos, anything, that catches my attemtion
 
 <details>
-<summary>25th April</summary>
+  <summary>chatGPT jailbreak</summary>
   <br>
+Youtube Video, about chatGPT jailbreak <a href="https://www.youtube.com/watch?v=zn2ukSnDqSg">link</a>
   
-Youtube Video, about chatGPT jailbreak [link](https://www.youtube.com/watch?v=zn2ukSnDqSg)
 1. LLMs, are predictive models, where, their primary job is, to predict what you would say next, in order to continue the conversation. Like, if we are talking about chess, then it will also continue coversing about it, and might say about moves in chess, prominent people etc. however, it won't "know" anything about it.
 2. Just because, LLM's response seems spooky, doesn't mean its able to reason. Far from it, its just able to mimic it.
 3. There comes its limitations. Well, there are ethics and rules in place, as to what all ChatGPT can say...
@@ -14,11 +14,9 @@ Youtube Video, about chatGPT jailbreak [link](https://www.youtube.com/watch?v=zn
 5. However, my personal opinion, is, it wasn't very impressive to me. So I thought, of taking up a notch... Because, I felt, flat earth, wasn't a sensative topic... you know what's sensative ? Encouraging Pornography. <a href="https://github.com/abhideepd/learning-archive/files/15122857/ChatGPT.pdf">pdf of my chats for jailbreaking</a> 
 6. Prompt injection, which, primarily, is aimed at chatbots, that are being used as customer service etc. with certain prompts, we can "hack" our way, to break their terms and conditions. 
 7. A popular method, the professors use, now a days, to catch hold of chatgpt plagerism.
+   
 </details>
 
-<details>
-<summary>26th April</summary>
- <br>
 <details>
   
 <summary>
@@ -49,8 +47,7 @@ Well, to be honest, at the end of the video, stuff went over my head, I could bl
   <summary>
     AI Chips
   </summary>
+  <br>
 Watched some other youtube videos about AI, heard about Groq AI chip, which using opensource llms and propriotary small llms to increase their speed in multiple of 10's xs. I didn't understand however, how are they better than nvidea, a quick google search revealed, these two have different approaches towards speeding llms, I think, a little depth is required in order to understand what they are talking about.
 <a href="https://www.youtube.com/watch?v=pRUddK6sxDg&ab_channel=Groq">link to the groq ai video</a>
-</details>
-
 </details>
