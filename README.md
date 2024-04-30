@@ -1,1 +1,1 @@
-for video learning archinve, keep it according to video and mention the date inside that, rather than keeping dates and then searching
+an archieve, to keep my day to day learnings... rather than carrying so much weight on my mind.
