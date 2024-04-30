@@ -29,7 +29,7 @@ To document, the knowledge I attain, through reading!! However, I am a pretty sl
   4. twitter rivalry
   5. --
   6. --
-  7. 
+  7. Instagress and Instazood, are services, to increase your instagram account perception of value, in order to land sponsership.
   
 </details>
 
